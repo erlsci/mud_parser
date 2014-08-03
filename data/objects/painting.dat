@@ -1,5 +1,0 @@
-{version, 1}.
-{primary_id, "painting"}.
-{long, "It depicts a dramatic landscape."}.
-{is_attached, true}.
-
