@@ -1,7 +1,8 @@
 {application, mud_parser,
  [
   {description, ""},
-  {vsn, "0.2.0"},
+  {vsn, "0.2.1"},
+  {modules, [mp_parser]},
   {registered, []},
   {applications, [
                   kernel,
